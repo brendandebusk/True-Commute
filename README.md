@@ -4,7 +4,7 @@ TrueCommute calculates a more accurate estimate for your commute time by tying t
 
 Built with React and responsive across devices. Routing data provided by Mapbox, weather data provided by the National Weather Service.
 
-Research papers referenced in developing the algorithm can be found [here](https://ops.fhwa.dot.gov/weather/q1_roadimpact.htm), [here](https://www.hindawi.com/journals/jat/2019/8203081/#data-availability), and [here](https://journals.sagepub.com/doi/abs/10.1177/0361198106194800119).
+Papers referenced in developing the algorithm can be found [here](https://ops.fhwa.dot.gov/weather/q1_roadimpact.htm), [here](https://www.hindawi.com/journals/jat/2019/8203081/#data-availability), and [here](https://journals.sagepub.com/doi/abs/10.1177/0361198106194800119).
 
 ## Live demo
 
